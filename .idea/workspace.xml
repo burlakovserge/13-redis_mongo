@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e0ea2f-b5a9-4fd1-9ccb-bee6f0ed7c98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JedisStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/redis.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mongo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Mongo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mongo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Mongo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Module 13" />
+      <module name="Module-13-nosql" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,7 +146,7 @@
       <workItem from="1586104830107" duration="1528000" />
       <workItem from="1586146374626" duration="14605000" />
       <workItem from="1586174156647" duration="182000" />
-      <workItem from="1586193215655" duration="383000" />
+      <workItem from="1586193215655" duration="5798000" />
     </task>
     <servers />
   </component>
